@@ -1,0 +1,71 @@
+form {
+    margin: 20px;
+  }
+
+  #header {
+    background-color: aqua;
+    
+    padding: 5px 0px;
+  }
+  #header img {
+    float: left;
+    margin-left: 10px;
+  }
+
+  #header h3 {
+    color: white;
+    text-align: center;
+  }
+  #social
+  {
+    margin: 50px 0px;
+  }
+  .fb {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(103, 103, 145);
+    max-width: 95%;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+
+  .google {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(231, 131, 131);
+    max-width: 95%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  #epam-login
+  {
+    background-color: rgb(195, 235, 135);
+    max-width: 95%;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    padding: 10px;
+  }
+  .btn
+  {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  #btn1
+  {
+    margin-right: 30px;
+  }
+  .register 
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
